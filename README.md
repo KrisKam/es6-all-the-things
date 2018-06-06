@@ -2,7 +2,7 @@
 
 # ES6 All The Things [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> Collection of ES6 goodies for next-level dev
+> I am changing something right now :tada:
 
 A comprehensive cheat sheet of everything ES6. Categorized and easy to refer back to later. Built with [GatsbyJS](https://www.gatsbyjs.org/) 🔥
 
