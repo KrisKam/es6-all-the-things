@@ -11,3 +11,5 @@ A comprehensive cheat sheet of everything ES6. Categorized and easy to refer bac
 ## Contributing
 
 Contributions welcome! Please refer to CONTRIBUTING.md.
+
+[Adding comment for class project.]
